@@ -25,6 +25,6 @@ Samples:
 |Pizza Delivery UI by Joni Sindo|Food Delivery UI by Jose Jaime Bisuna|
 |---|---|
 |<img src="august/joni-sindo.png" alt="Pizza Delivery" width=250/>|<img src="august/jose-jaime-bisuna.png" alt="Fastfood UI" width=250/>|
-|[Codepen](https://codepen.io/digitaljoni/pen/QWyXJZe)|[Codepen](https://codepen.io/CambooBabbage/pen/VwaZPXp)|
+|[Codepen](https://codepen.io/digitaljoni/pen/QWyXJZe), [Github](https://github.com/digitaljoni/examples_flutter/tree/master/pizza_delivery)|[Codepen](https://codepen.io/CambooBabbage/pen/VwaZPXp)|
 
 <!-- Add other submissions here [Jansalvador1445] -->
