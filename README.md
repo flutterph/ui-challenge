@@ -8,17 +8,12 @@ List of submissions from the community for the UI challenge hosted by Flutter PH
 <!--
 TODO: Remove this soon
 
-Template:
+Important details:
 
-#### Project name by Flutter Dev
-
-<img src="path/to/image" alt="Project name" width=250/>
-
-Only if publicly shared by the developer (not APKs):
-
-Samples:
-- [Github](http://github.com/user/project)
-- [Codepen](http://codepen.io/user/pen/project)
+1. Project and dev names
+2. Link to a screenshot
+3. Link/s to the project (only if public)
+4. Tags, can be updated later
 
 -->
 
@@ -26,5 +21,6 @@ Samples:
 |---|---|
 |<img src="august/joni-sindo.png" alt="Pizza Delivery" width=250/>|<img src="august/jose-jaime-bisuna.png" alt="Fastfood UI" width=250/>|
 |[Codepen](https://codepen.io/digitaljoni/pen/QWyXJZe), [Github](https://github.com/digitaljoni/examples_flutter/tree/master/pizza_delivery)|[Codepen](https://codepen.io/CambooBabbage/pen/VwaZPXp)|
+|Tags: Implicit Animations, Custom Painters|Tags: Carousel, Lists, Minimalist|
 
 <!-- Add other submissions here [Jansalvador1445] -->
