@@ -3,7 +3,9 @@
 List of submissions from the community for the UI challenge hosted by Flutter PH. This does not include submissions that were submitted privately.
 
 ### August 2020
+Theme: Food Delivery UI
 
+[Read blog](https://medium.com/flutterphilippines/flutter-philippines-uichallenge-august-2020-d747b4cc38d)
 
 <!--
 TODO: Remove this soon
