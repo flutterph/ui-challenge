@@ -28,8 +28,7 @@ Important details:
 |Food Delivery UI by Max Bryan Bauzon|Food Delivery UI by Darryl Llanura|
 |---|---|
 |<img src="august/bryan-bauzon.jpg" alt="Fastfood UI" width=250/>|<img src="august/darryl-llanura.png" alt="Fastfood UI" width=250/>|
-|[]()|
-[]()|
+|[Github](https://github.com/bryanbauzon/Food-Delivery-UI-Challlenge-Flutter)|[Github](https://github.com/Ghost-017/flutter-food-delivery-ui-challange)|
 |Tags: |Tags:|
 
 |Food Delivery UI by Debra Bula|Food Delivery UI by Gary Senoc|
