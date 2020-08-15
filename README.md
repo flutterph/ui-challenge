@@ -64,4 +64,5 @@ Important details:
 |Food Delivery UI by Paul Valencia|
 |---|
 |<img src="august/paul-valencia.png" alt="Fastfood UI" width=250/>||[Github](https://github.com/i8out/pinoy-ready-to-eat-app)|
+|[Github](https://github.com/i8out/pinoy-ready-to-eat-app)|
 |Tags: |
