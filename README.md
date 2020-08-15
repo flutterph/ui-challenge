@@ -22,16 +22,9 @@ Samples:
 
 -->
 
-#### Pizza Delivery UI by Joni Sindo 
-
-<img src="august/joni-sindo.png" alt="Pizza Delivery" width=250/>
-
-[Codepen](https://codepen.io/digitaljoni/pen/QWyXJZe)
-
-#### Food Delivery UI by Jose Jaime Bisuna
-
-<img src="august/jose-jaime-bisuna.png" alt="Fastfood UI" width=250/>
-
-[Codepen](https://codepen.io/CambooBabbage/pen/VwaZPXp)
+|Pizza Delivery UI by Joni Sindo|Food Delivery UI by Jose Jaime Bisuna|
+|---|---|
+|<img src="august/joni-sindo.png" alt="Pizza Delivery" width=250/>|<img src="august/jose-jaime-bisuna.png" alt="Fastfood UI" width=250/>|
+|[Codepen](https://codepen.io/digitaljoni/pen/QWyXJZe)|[Codepen](https://codepen.io/CambooBabbage/pen/VwaZPXp)|
 
 <!-- Add other submissions here [Jansalvador1445] -->
