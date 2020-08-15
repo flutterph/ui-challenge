@@ -26,3 +26,45 @@ Important details:
 |Tags: Implicit Animations, Custom Painters|Tags: Carousel, Lists, Minimalist|
 
 <!-- Add other submissions here [Jansalvador1445] -->
+
+|Food Delivery UI by Max Bryan Bauzon|Food Delivery UI by Darryl Llanura|
+|---|---|
+|<img src="august/bryan-bauzon.jpg" alt="Fastfood UI" width=250/>|<img src="august/darryl-llanura.png" alt="Fastfood UI" width=250/>|
+|||
+|Tags: |Tags:|
+
+|Food Delivery UI by Debra Bula|Food Delivery UI by Gary Senoc|
+|---|---|
+|<img src="august/debra-bula.png" alt="Fastfood UI" width=250/>|<img src="august/gary-senoc.png" alt="Fastfood UI" width=250/>|
+|||
+|Tags: |Tags:|
+
+|Food Delivery UI by Harvey Sison|Food Delivery UI by Ian Jasper Santos|
+|---|---|
+|<img src="august/harvey-sison.png" alt="Fastfood UI" width=250/>|<img src="august/ian-jasper-1.png" alt="Fastfood UI" width=250/>|
+|||
+|Tags: |Tags:|
+
+|Food Delivery UI by Ian Jasper Santos|Food Delivery UI by Ian Jasper Santos|
+|---|---|
+|<img src="august/ian-jasper-2.png" alt="Fastfood UI" width=250/>|<img src="august/ian-jasper-3.png" alt="Fastfood UI" width=250/>|
+|||
+|Tags: |Tags:|
+
+|Food Delivery UI by Jan Salvador Sebastian|Food Delivery UI by Jolo Castillo|
+|---|---|
+|<img src="august/jan-salvador-sebastian.png" alt="Fastfood UI" width=250/>|<img src="august/jolo-castillo.png" alt="Fastfood UI" width=250/>|
+|||
+|Tags: |Tags:|
+
+|Food Delivery UI by Jonathan Mayol|Food Delivery UI by Nichole John Romero|
+|---|---|
+|<img src="august/jonathan-mayol.png" alt="Fastfood UI" width=250/>|<img src="august/nichole-john-romero.jpg" alt="Fastfood UI" width=250/>|
+|||
+|Tags: |Tags:|
+
+|Food Delivery UI by Paul Valencia|
+|---|
+|<img src="august/paul-valencia.png" alt="Fastfood UI" width=250/>|
+||
+|Tags: |
