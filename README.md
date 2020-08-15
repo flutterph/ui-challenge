@@ -59,7 +59,7 @@ Important details:
 
 |Food Delivery UI by Jonathan Mayol|Food Delivery UI by Nichole John Romero|
 |---|---|
-|<img src="august/jonathan-mayol.png" alt="Fastfood UI" width=250/>|<img src="august/nichole-john-romero.png" alt="Fastfood UI" width=250/>|
+|<img src="august/jonathan-mayol.png" alt="Fastfood UI" width=250/>|<img src="august/nichole-john-romero.jpg" alt="Fastfood UI" width=250/>|
 |||
 |Tags: |Tags:|
 
